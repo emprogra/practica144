@@ -105,3 +105,4 @@ C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebA
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.dll
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
