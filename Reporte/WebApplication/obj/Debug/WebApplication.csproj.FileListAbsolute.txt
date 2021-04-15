@@ -101,7 +101,6 @@ C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\bin\Microsoft.
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.csprojAssemblyReference.cache
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.csproj.CoreCompileInputs.cache
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.csproj.CopyComplete
 C:\Users\Emily HP\Source\Repos\practica144\Reporte\WebApplication\obj\Debug\WebApplication.dll
