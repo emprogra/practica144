@@ -12,5 +12,7 @@ namespace Reporte.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<Reporte.Models.Gente> Gentes { get; set; }
     }
 }
